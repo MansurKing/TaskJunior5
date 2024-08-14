@@ -21,7 +21,6 @@ namespace TaskJunior5
 
             Console.WriteLine($"Правельное содерживое в чашке с кофе, а именно {tea}");
             Console.WriteLine($"Правельное содерживое в чашке с чаем, а именно {coffee}");
-
         }
     }
 }
